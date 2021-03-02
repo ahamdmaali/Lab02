@@ -14,3 +14,7 @@ body{
 #demo{
  color: blue;   
 }
+li{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
